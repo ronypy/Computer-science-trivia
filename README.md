@@ -37,8 +37,6 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-<img src="assets/walkthrough.gif" title="Video Walkthrough" alt="Video Walkthrough" />
 ![Project_2](https://github.com/user-attachments/assets/ddb721d7-8f5a-49fd-9b62-da62f1467801)
 
 
